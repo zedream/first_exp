@@ -28,11 +28,6 @@
     "version": "napi version"
   },
   "packageManager": "yarn@4.3.1",
-  "optionalDependencies": {
-    "@thao/first_exp-win32-x64-msvc": "0.0.5",
-    "@thao/first_exp-darwin-x64": "0.0.5",
-    "@thao/first_exp-linux-x64-gnu": "0.0.5"
-  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"

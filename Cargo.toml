@@ -1,7 +1,6 @@
 [package]
 edition = "2021"
-name = "first-exp"
-version = "0.0.0"
+name = "first_exp"
 
 [lib]
 crate-type = ["cdylib"]
