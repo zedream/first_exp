@@ -1,6 +1,6 @@
 {
   "name": "@thao-napi-rs/first_exp-linux-x64-gnu",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "os": [
     "linux"
   ],
