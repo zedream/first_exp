@@ -1,6 +1,6 @@
 {
   "name": "@thao/first_exp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
@@ -29,9 +29,9 @@
   },
   "packageManager": "yarn@4.3.1",
   "optionalDependencies": {
-    "@thao/first_exp-win32-x64-msvc": "0.0.2",
-    "@thao/first_exp-darwin-x64": "0.0.2",
-    "@thao/first_exp-linux-x64-gnu": "0.0.2"
+    "@thao/first_exp-win32-x64-msvc": "0.0.3",
+    "@thao/first_exp-darwin-x64": "0.0.3",
+    "@thao/first_exp-linux-x64-gnu": "0.0.3"
   },
   "publishConfig": {
     "access": "public",
