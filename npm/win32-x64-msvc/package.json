@@ -1,15 +1,15 @@
 {
-  "name": "first-exp-win32-x64-msvc",
-  "version": "0.0.0",
+  "name": "@thao-napi-rs/first_exp-win32-x64-msvc",
+  "version": "0.0.1",
   "os": [
     "win32"
   ],
   "cpu": [
     "x64"
   ],
-  "main": "first-exp.win32-x64-msvc.node",
+  "main": "first_exp.win32-x64-msvc.node",
   "files": [
-    "first-exp.win32-x64-msvc.node"
+    "first_exp.win32-x64-msvc.node"
   ],
   "license": "MIT",
   "engines": {

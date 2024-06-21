@@ -1,15 +1,15 @@
 {
-  "name": "first-exp-darwin-x64",
-  "version": "0.0.0",
+  "name": "@thao-napi-rs/first_exp-darwin-x64",
+  "version": "0.0.1",
   "os": [
     "darwin"
   ],
   "cpu": [
     "x64"
   ],
-  "main": "first-exp.darwin-x64.node",
+  "main": "first_exp.darwin-x64.node",
   "files": [
-    "first-exp.darwin-x64.node"
+    "first_exp.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {

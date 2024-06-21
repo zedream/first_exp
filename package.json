@@ -1,10 +1,10 @@
 {
-  "name": "first-exp",
-  "version": "0.0.0",
+  "name": "@thao-napi-rs/first_exp",
+  "version": "0.0.1",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "first-exp",
+    "name": "first_exp",
     "triples": {}
   },
   "license": "MIT",
@@ -27,5 +27,10 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.3.1",
+  "optionalDependencies": {
+    "@thao-napi-rs/first_exp-win32-x64-msvc": "0.0.1",
+    "@thao-napi-rs/first_exp-darwin-x64": "0.0.1",
+    "@thao-napi-rs/first_exp-linux-x64-gnu": "0.0.1"
+  }
 }

@@ -1,3 +1,3 @@
-# `first-exp-linux-x64-gnu`
+# `@thao-napi-rs/first_exp-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `first-exp`
+This is the **x86_64-unknown-linux-gnu** binary for `@thao-napi-rs/first_exp`

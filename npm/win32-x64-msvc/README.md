@@ -1,3 +1,3 @@
-# `first-exp-win32-x64-msvc`
+# `@thao-napi-rs/first_exp-win32-x64-msvc`
 
-This is the **x86_64-pc-windows-msvc** binary for `first-exp`
+This is the **x86_64-pc-windows-msvc** binary for `@thao-napi-rs/first_exp`
