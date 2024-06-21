@@ -1,6 +1,6 @@
 {
   "name": "@thao-napi-rs/first_exp-linux-x64-gnu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "os": [
     "linux"
   ],
@@ -14,6 +14,10 @@
   "license": "MIT",
   "engines": {
     "node": ">= 10"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "libc": [
     "glibc"

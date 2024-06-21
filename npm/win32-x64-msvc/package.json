@@ -1,6 +1,6 @@
 {
   "name": "@thao-napi-rs/first_exp-win32-x64-msvc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "os": [
     "win32"
   ],
@@ -14,5 +14,9 @@
   "license": "MIT",
   "engines": {
     "node": ">= 10"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
