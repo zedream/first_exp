@@ -1,5 +1,5 @@
 {
-  "name": "@thao-napi-rs/first_exp-darwin-x64",
+  "name": "@thao/first_exp-darwin-x64",
   "version": "0.0.5",
   "os": [
     "darwin"
